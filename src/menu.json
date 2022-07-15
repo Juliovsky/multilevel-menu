@@ -1,0 +1,115 @@
+[{
+  "name": "MENU",
+  "menuItems": [
+      {
+        "name": "SALADS & CALZONE",
+        "menuItems": [
+          {
+            "name": "CALZONI",
+            "menuItems": [
+              {
+                "name": "VEGGIE"
+              },
+              {
+                "name": "MEAT LOVER"
+              },
+              {
+                "name": "PIZZAIOLO"
+              }
+            ]
+          },
+          {
+            "name": "SALADS",
+            "menuItems": [
+              {
+                "name": "CAESAR"
+              },
+              {
+                "name": "CAPRESE"
+              },
+              {
+                "name": "HOUSE MIX"
+              },
+              {
+                "name": "BIETOLE"
+              }
+            ]
+          }
+        ]
+      },
+        {
+          "name": "PIZZAIOLO",
+          "menuItems": [
+            {
+              "name": "CHEESE",
+              "menuItems": [
+                {
+                  "name": "Add Veggies"
+                },
+                {
+                  "name": "Add cheese"
+                },
+                {
+                  "name": "Add Meat"
+                },
+                {
+                  "name": "Add Chicken"
+                }
+              ]
+            },
+            {
+              "name": "PEPPERONI"
+            },
+            {
+              "name": "MARGHERITA"
+            },
+            {
+              "name": "SALAMI"
+            },
+            {
+              "name": "DI PARMA"
+            },
+            {
+              "name": "VEGETARIAN"
+            },
+            {
+              "name": "PIZZAIOLO"
+            },
+            {
+              "name": "QUATTRO FORMAGGI"
+            }
+
+          ]
+        },
+    {
+      "name": "DESSERTS",
+      "menuItems": [
+        {
+          "name": "TIRAMISU"
+        },
+        {
+          "name": "CANNOLI CREAM"
+        },
+        {
+          "name": "Dolce"
+        },
+        {
+          "name": "SALAMI"
+        },
+        {
+          "name": "DI PARMA"
+        },
+        {
+          "name": "VEGETARIAN"
+        },
+        {
+          "name": "PIZZAIOLO"
+        },
+        {
+          "name": "QUATTRO FORMAGGI"
+        }
+
+      ]
+    }
+    ]
+  }]
